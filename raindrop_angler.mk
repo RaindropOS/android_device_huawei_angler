@@ -1,4 +1,4 @@
-# Inherit zombi-specific board config
+# Inherit Raindrop-specific board config
 include device/huawei/angler/BoardConfigRaindrop.mk
 
 # Inherit base AOSP device configuration
